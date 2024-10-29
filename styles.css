@@ -27,7 +27,7 @@ img {
     height: 200px;
 }
 
-.Desenhos dos Anos 90 {
+.chamada-texto {
     display:flex;
     overflow-x:auto;
     gap:10px;

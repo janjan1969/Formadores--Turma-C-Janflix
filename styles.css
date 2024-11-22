@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(3, 104, 236);
+    border-bottom: solid 2px rgb(4, 37, 80);
     padding: 20px;
     font-size: 32px;
-    color: rgb(58, 91, 134);
+    color: rgb(156, 195, 247);
 }
 
 .chamada {
-    background: rgb(226, 223, 230);
+    background: rgb(173, 171, 21);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -22,7 +22,7 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 10%;
 }
 
 h1 {
@@ -52,12 +52,12 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(32, 51, 32);
+    border: 5px solid rgb(32, 51, 32);
 }
 
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
 img {
-    height: 400px;
+    height: 200px;
   }
